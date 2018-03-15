@@ -1,7 +1,3 @@
 # Hwsiw
 
-Prova commit
-
-commit silvio
-
-commit lorenzo
+Prova merging
